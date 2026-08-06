@@ -1,9 +1,8 @@
 # Security contributions
 
-Public index of **merged** good-faith security fixes from [SashaMIT](https://github.com/SashaMIT) (Elacity).
+A public record of security contributions by [SashaMIT](https://github.com/SashaMIT) (Elacity) that have been reviewed and merged into upstream projects' codebases.
 
-> Text-only credits. No logos, no “partner of,” no “we secured $TVL.”  
-> Only **landed** (merged / publicly credited) work appears here.
+Each entry links to the merged pull request and resulting commit. Only work accepted upstream is listed.
 
 ## Landed
 
