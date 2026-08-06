@@ -8,6 +8,7 @@ Each entry links to the merged pull request and resulting commit. Only work acce
 
 | Date | Upstream | What changed | Proof |
 |---|---|---|---|
+| 2026-08-06 | [solana-program/token](https://github.com/solana-program/token) | Bind publish workflow package-path input via env before shell use (CI hardening) | [PR #168](https://github.com/solana-program/token/pull/168) (merged) · commit [dbd8943](https://github.com/solana-program/token/commit/dbd8943) |
 | 2026-08-06 | [solana-program/compute-budget](https://github.com/solana-program/compute-budget) | Bind publish workflow package-path input via env before shell use (CI hardening) | [PR #37](https://github.com/solana-program/compute-budget/pull/37) (merged) · commit [1f3c265](https://github.com/solana-program/compute-budget/commit/1f3c265) |
 | 2026-08-06 | [solana-program/system](https://github.com/solana-program/system) | Bind publish workflow package-path input via env before shell use (CI hardening) | [PR #89](https://github.com/solana-program/system/pull/89) (merged) · commit [8c47b48](https://github.com/solana-program/system/commit/8c47b48) |
 | 2026-08-06 | [solana-program/address-lookup-table](https://github.com/solana-program/address-lookup-table) | Bind publish workflow package-path input via env before shell use (CI hardening) | [PR #346](https://github.com/solana-program/address-lookup-table/pull/346) (merged) · commit [f8b3abf](https://github.com/solana-program/address-lookup-table/commit/f8b3abf) |
