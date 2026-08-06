@@ -8,6 +8,7 @@ Each entry links to the merged pull request and resulting commit. Only work acce
 
 | Date | Upstream | What changed | Proof |
 |---|---|---|---|
+| 2026-08-06 | [solana-program/record](https://github.com/solana-program/record) | Bind publish workflow package-path input via env before shell use (CI hardening) | [PR #363](https://github.com/solana-program/record/pull/363) (merged) · commit [9827005](https://github.com/solana-program/record/commit/9827005) |
 | 2026-08-06 | [solana-program/token-2022](https://github.com/solana-program/token-2022) | Bind publish workflow package-path input via env before shell use (CI hardening) | [PR #1365](https://github.com/solana-program/token-2022/pull/1365) (merged) · commit [d06c18b](https://github.com/solana-program/token-2022/commit/d06c18b) |
 | 2026-08-06 | [solana-program/token-metadata](https://github.com/solana-program/token-metadata) | Bind publish workflow package-path input via env before shell use (CI hardening) | [PR #111](https://github.com/solana-program/token-metadata/pull/111) (merged) · commit [1db90f1](https://github.com/solana-program/token-metadata/commit/1db90f1) |
 | 2026-08-06 | [solana-program/stake-pool](https://github.com/solana-program/stake-pool) | Bind publish workflow package-path input via env before shell use (CI hardening) | [PR #846](https://github.com/solana-program/stake-pool/pull/846) (merged) · commit [9e2dd0f](https://github.com/solana-program/stake-pool/commit/9e2dd0f) |
